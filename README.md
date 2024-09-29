@@ -91,9 +91,3 @@ Feel free to reach out to me at:
 
 - **GitHub**: [OmTiwari739](https://github.com/OmTiwari739)
 - **LinkedIn**: [Om Tiwari](www.linkedin.com/in/om-tiwari-amritlal)
-
-)
-
----
-
-This template will give you a professional and structured README file for your GitHub repository! You can modify it as needed, especially for the "Screenshots" section by uploading actual screenshots.
